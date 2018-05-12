@@ -1,0 +1,47 @@
+_repo: La-Vie-de-Madame--lisabeth-soeur-de-Louis-XVI-Volume-1_40194
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Dupanloup, Félix
+    aliases:
+    - Dupanloup, Monseigneur
+    - Dupanloup, Mgr.
+    - Dupanloup, Felix
+    - Felix, Bishop of Orleans
+    - Dupanloup, Félix Antoine Philibert
+    birthdate: 1802
+    deathdate: 1878
+    gutenberg_agent_id: '40469'
+    url: http://www.gutenberg.org/2009/agents/40469
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beauchesne, A. de (Alcide)
+    aliases:
+    - Beauchesne, Alcide Hyacinthe du Bois de
+    - Du Bois de Beauchesne, Alcide-Hyacinthe
+    - Beauchesne, H.-A. du Bois de
+    - De Beauchesne, A. (Alcide)
+    - Bois de Beauchesne, Alcide-Hyacinthe du
+    birthdate: 1804
+    deathdate: 1873
+    gutenberg_agent_id: '40468'
+    url: http://www.gutenberg.org/2009/agents/40468
+    wikipedia: http://fr.wikipedia.org/wiki/Alcide_de_Beauchesne
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2012-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40194'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Elisabeth, Princess of France, 1764-1794'
+title: La Vie de Madame Élisabeth, soeur de Louis XVI, Volume 1
+url: http://www.gutenberg.org/ebooks/40194
